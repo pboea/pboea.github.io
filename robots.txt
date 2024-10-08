@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pboea.github.io/yFV/sitemap.yFV.gz
